@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hexacalculator/static/css/main.5cf6dca4.css",
+    "main.js": "/hexacalculator/static/js/main.646b55a5.js",
+    "static/js/787.f6f96b65.chunk.js": "/hexacalculator/static/js/787.f6f96b65.chunk.js",
+    "static/media/logo.svg": "/hexacalculator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/hexacalculator/index.html",
+    "main.5cf6dca4.css.map": "/hexacalculator/static/css/main.5cf6dca4.css.map",
+    "main.646b55a5.js.map": "/hexacalculator/static/js/main.646b55a5.js.map",
+    "787.f6f96b65.chunk.js.map": "/hexacalculator/static/js/787.f6f96b65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cf6dca4.css",
+    "static/js/main.646b55a5.js"
+  ]
+}
